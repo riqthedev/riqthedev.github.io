@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: hacker
 # add this line to the plugins list if you already have one
 
 # Exclude from processing.
